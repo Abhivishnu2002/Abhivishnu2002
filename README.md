@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhijith S S
-- 🤩 I’m interested in Web development
-- 🤝 I’m looking to collaborate on Front-end development projects
-- 📫 Contact @abhijithvishnu180@gmail.com
+-Backend developer
+-Underrated ethical hacker I
+-certified from free code camp org
+-Contact @abhijithvishnu180@gmail.com
 
 <!---
 Abhivishnu2002/Abhivishnu2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
