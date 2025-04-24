@@ -1,6 +1,5 @@
 -Backend developer
--Underrated ethical hacker I
--certified from free code camp org
+-Frontend technologies
 -Contact @abhijithvishnu180@gmail.com
 
 <!---
